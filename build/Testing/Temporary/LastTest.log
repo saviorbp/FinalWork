@@ -1,0 +1,21 @@
+Start testing: Sep 02 18:02 -03
+----------------------------------------------------------
+1/1 Testing: test
+1/1 Test: test
+Command: "/home/saviorbp/ed/FinalWork/build/test_executable"
+Directory: /home/saviorbp/ed/FinalWork/build
+"test" start time: Sep 02 18:02 -03
+Output:
+----------------------------------------------------------
+Erro ao abrir o arquivo CSV!
+Total de filmes extraídos: 0
+Total de filmes extraídos: 0
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Failed.
+"test" end time: Sep 02 18:02 -03
+"test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 02 18:02 -03

@@ -1,0 +1,8 @@
+test_insert 1 0.00573889
+test_find1 1 0.00382809
+test_find2 1 0.00329464
+test_remove_1 1 0.00335359
+test_remove_all 1 0.00510704
+test 0 0
+---
+test
