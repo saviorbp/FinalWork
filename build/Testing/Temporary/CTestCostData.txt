@@ -4,5 +4,5 @@ test_find2 1 0.00329464
 test_remove_1 1 0.00335359
 test_remove_all 1 0.00510704
 test 1 0.268529
-data_processor 1 0.261445
+data_processor 2 0.136412
 ---

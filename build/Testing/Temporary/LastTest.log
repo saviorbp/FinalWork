@@ -1,10 +1,10 @@
-Start testing: Sep 03 12:03 -03
+Start testing: Sep 03 12:29 -03
 ----------------------------------------------------------
 1/1 Testing: data_processor
 1/1 Test: data_processor
 Command: "/home/saviorbp/ed/FinalWork/build/test_executable"
 Directory: /home/saviorbp/ed/FinalWork/build
-"data_processor" start time: Sep 03 12:03 -03
+"data_processor" start time: Sep 03 12:29 -03
 Output:
 ----------------------------------------------------------
 Erro de conversão: stof na linha: 19;False;[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}];11517;tt0113845;en;Money Train;"A vengeful New York transit cop decides to steal a trainload of subway fares; his foster brother, a fellow cop, tries to protect him.";7.337906;[{'name': 'Columbia Pictures', 'id': 5}];[{'iso_3166_1': 'US', 'name': 'United States of America'}];1995-11-21;35431113.0;103.0;[{'iso_639_1': 'en', 'name': 'English'}];Money Train;5.4;224.0
@@ -1880,22 +1880,22 @@ Erro de conversão: stof na linha: 45459;False;[{'id': 878, 'name': 'Science Fic
 CSV convertido para binário com sucesso!
 Total de filmes extraídos: 42649
 Filmes aleatórios extraídos:
-ID: 131232, Title: Two Friends, Genre: [{'id': 18, 'name': 'Drama'}, {'id': 10769, 'name': 'Foreign'}], Vote Average: 0
-ID: 83857, Title: Windows, Genre: [{'id': 27, 'name': 'Horror'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}], Vote Average: 5.8
-ID: 4307, Title: The Flower of My Secret, Genre: [{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}], Vote Average: 6.9
-ID: 10987, Title: Halloween: The Curse of Michael Myers, Genre: [{'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}], Vote Average: 5
-ID: 10948, Title: The Fox and the Hound, Genre: [{'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}], Vote Average: 7
-ID: 131232, Title: Two Friends, Genre: [{'id': 18, 'name': 'Drama'}, {'id': 10769, 'name': 'Foreign'}], Vote Average: 0
-ID: 123505, Title: A Modern Affair, Genre: [], Vote Average: 5
-ID: 20762, Title: The Substitute, Genre: [{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}], Vote Average: 5.8
-ID: 9102, Title: Screamers, Genre: [{'id': 27, 'name': 'Horror'}, {'id': 878, 'name': 'Science Fiction'}], Vote Average: 6.1
-ID: 45549, Title: Shopping, Genre: [{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}], Vote Average: 5.6
+ID: 11228, Title: Daylight, Genre: [{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}], Vote Average: 5.8
+ID: 9271, Title: Virtuosity, Genre: [{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}], Vote Average: 5.4
+ID: 87729, Title: Jefferson in Paris, Genre: [{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}], Vote Average: 5.2
+ID: 2045, Title: Unforgettable, Genre: [{'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}], Vote Average: 5.3
+ID: 9091, Title: Sudden Death, Genre: [{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}], Vote Average: 5.5
+ID: 106143, Title: I'll Do Anything, Genre: [{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}], Vote Average: 5.7
+ID: 17447, Title: Jeffrey, Genre: [{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}], Vote Average: 6.5
+ID: 10869, Title: Herbie Rides Again, Genre: [{'id': 10749, 'name': 'Romance'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}], Vote Average: 5.9
+ID: 97406, Title: Georgia, Genre: [{'id': 18, 'name': 'Drama'}], Vote Average: 6.1
+ID: 2054, Title: Mr. Holland's Opus, Genre: [{'id': 10402, 'name': 'Music'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}], Vote Average: 6.9
 <end of output>
-Test time =   0.26 sec
+Test time =   0.27 sec
 ----------------------------------------------------------
 Test Passed.
-"data_processor" end time: Sep 03 12:03 -03
+"data_processor" end time: Sep 03 12:29 -03
 "data_processor" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Sep 03 12:03 -03
+End testing: Sep 03 12:29 -03
